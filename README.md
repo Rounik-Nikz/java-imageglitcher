@@ -22,8 +22,8 @@ You get to explore:
 
 ## 📸 Demo
 
-> 🎯 Place any `original.png` in the same folder as the `.java` file and run the program.
-> You’ll get a new `glitched.png` image that looks **trippy** or **corrupted** (but often still opens, chances are there it can totally corrupt).
+🎯 Place any `original.png` in the same folder as the `.java` file and run the program.
+You’ll get a new `glitched.png` image that looks **trippy** or **corrupted** (but often still opens, chances are there it can totally corrupt).
 
 ---
 
